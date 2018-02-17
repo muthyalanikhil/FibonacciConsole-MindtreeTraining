@@ -1,0 +1,5 @@
+D:\day1\Fibbnoci\Fibbnoci\bin\Debug\Fibbnoci.exe
+D:\day1\Fibbnoci\Fibbnoci\bin\Debug\Fibbnoci.pdb
+D:\day1\Fibbnoci\Fibbnoci\obj\x86\Debug\Fibbnoci.exe
+D:\day1\Fibbnoci\Fibbnoci\obj\x86\Debug\Fibbnoci.pdb
+D:\day1\Fibbnoci\Fibbnoci\obj\x86\Debug\Fibbnoci.csprojResolveAssemblyReference.cache
